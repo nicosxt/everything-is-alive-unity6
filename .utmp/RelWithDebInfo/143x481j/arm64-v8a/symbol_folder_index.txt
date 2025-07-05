@@ -1,0 +1,1 @@
+C:\Users\synto\Documents\Unity\EiA\Unity6\EIA_2025_UNITY6\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\143x481j\obj\arm64-v8a

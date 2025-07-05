@@ -1,0 +1,2 @@
+C:\Users\synto\Documents\Unity\EiA\Unity6\EIA_2025_UNITY6\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\synto\Documents\Unity\EiA\Unity6\EIA_2025_UNITY6\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
